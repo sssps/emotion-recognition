@@ -1,0 +1,16 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/emotion",
+		"prod_uri":"mysql://root:@localhost/emotion",
+		"fb_url":"https://facebook.com/emotion",
+		"tw_url":"https://twitter.com/emotion",
+		"git_url":"https://github.com/emotion",
+		"blog_name":"Emotion Recognition",
+		"login_image":"login.jpeg",
+		"gmail_user":"demoproject58@gmail.com",
+		"gmail_password":"project@123"
+
+	}
+} 
